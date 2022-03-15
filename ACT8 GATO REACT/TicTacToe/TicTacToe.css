@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    align-items: center;
+    justify-content: center;
+    color:red;
+}
+table td{
+    border: 1px solid grey;
+    width:100px;
+    height:100px;
+}
+.turn{
+    color:blue;
+    font-size:30px;
+}
+
+.button{
+    width: 120px;
+    height: 50px;
+    color: red;
+    font-size: 25px;}
